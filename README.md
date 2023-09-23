@@ -35,4 +35,4 @@ npm run build
 
 ## License
 
-Par Mcisme, Viraza TechSavvy, CompilerTechnologie
+Par Mcisme, Viraza, TechSavvy, CompilerTechnologie
